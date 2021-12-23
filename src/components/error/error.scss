@@ -1,0 +1,29 @@
+.error{
+    max-width: 300px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: end;
+    margin: 0;
+    padding: 0;
+
+    & img{
+        max-width: auto;
+        max-height: 100%;
+    }
+    & .error-message {
+        display: block;
+        position: absolute;
+        bottom: 30%;
+        left: 5%;
+        font-size: 1.1rem;
+        font-weight: 700;
+        color:red;
+    }
+
+}
+
+
+
+
+
