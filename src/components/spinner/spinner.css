@@ -10,16 +10,15 @@
   }
 }
 .spinner{
-  width:100%;
-  display: flex;
-  margin: 0 auto;
+   width:100%;
+
 }
 .ldio-jzq77jyz5rg div > div {
   position: absolute;
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background: #3084b8;
+  background: #dd3214;
   animation: ldio-jzq77jyz5rg 1s linear infinite;
 }.ldio-jzq77jyz5rg div:nth-child(1) > div {
   left: 148px;
@@ -91,8 +90,8 @@
   height: 200px;
   display: inline-block;
   margin: 0 auto;
-  overflow: hidden;
-  background: #ffffff;
+  /* overflow: hidden; */
+  background: transparent;
 }
 .ldio-jzq77jyz5rg {
   width: 100%;

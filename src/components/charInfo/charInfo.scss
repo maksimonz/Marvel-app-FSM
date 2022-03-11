@@ -7,6 +7,7 @@
         position: relative;
         z-index: 5;
         background-color: #fff;
+        border-radius: 15px;
         &-name {
             font-weight: bold;
             font-size: 22px;
@@ -15,6 +16,13 @@
         }
         .skeleton {
             margin-top: 30px;
+        }
+        .ldio-jzq77jyz5rg{
+      
+            display: flex;
+     
+            // align-items:center;
+            justify-content: center;
         }
     }
     &__basics {
